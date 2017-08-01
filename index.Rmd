@@ -1,0 +1,17 @@
+---
+title: 'Week 3 Assignment - Stars!'
+author: "Martin Halwachs"
+date: "1 August 2017"
+output: ioslides_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## My Plot
+
+## The Code
+
+
+# Thank you
